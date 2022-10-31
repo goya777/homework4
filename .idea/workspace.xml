@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e31287b0-e840-44df-9731-63266580ae02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667123275583.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667123275583.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667123297229.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667123297229.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667123430282.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667123430282.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667124904124.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667124904124.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667126227297.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667126227297.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667126322281.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667126322281.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667128055698.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667128055698.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667128538462.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667128538462.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667128928817.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667128928817.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667140959713.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667140959713.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667142079424.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667142079424.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667142140229.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667142140229.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667143534145.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667143534145.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667143571555.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667143571555.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667143603319.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667143603319.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667143679086.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667143679086.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667145028819.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667145028819.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667145047084.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667145047084.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667145873996.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667145873996.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667145919029.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1667145919029.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lecture11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/davaleba4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Glqz20ME9duXv6tQjoegYCFxoA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/n.goiashvili/Desktop/homework4",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.davaleba4.davaleba4">
+    <configuration name="davaleba4.davaleba4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testlecture11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="davaleba4" />
+      <option name="METHOD_NAME" value="davaleba4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lectureme11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testlecture11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="lectureme11" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lectureme11.myfirsttest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testlecture11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="lectureme11" />
+      <option name="METHOD_NAME" value="myfirsttest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lectureme11.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testlecture11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="lectureme11" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.davaleba4.davaleba4" />
+        <item itemvalue="JUnit.lectureme11" />
+        <item itemvalue="JUnit.lectureme11.test3" />
+        <item itemvalue="JUnit.lectureme11.myfirsttest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e31287b0-e840-44df-9731-63266580ae02" name="Changes" comment="" />
+      <created>1666973778689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666973778689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
